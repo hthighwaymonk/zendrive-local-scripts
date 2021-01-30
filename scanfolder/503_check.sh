@@ -132,5 +132,4 @@ else
    exit
 fi
 }
-
 get_files
